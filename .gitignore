@@ -1,0 +1,5 @@
+# CLion
+.idea
+
+# output of terminal invoked make folder
+Debug/
